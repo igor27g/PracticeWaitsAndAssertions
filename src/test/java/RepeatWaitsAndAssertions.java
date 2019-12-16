@@ -158,9 +158,14 @@ public class RepeatWaitsAndAssertions {
         actions.click(product2).build().perform();
         wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.cssSelector("h1[itemprop='name']"))));
         WebElement cart = driver.findElement(By.cssSelector("a[href='http://automationpractice.com/index.php?controller=order']"));
-        actions.click(cart).build().perform();
+        actions.clickAndHold(cart).build().perform();
         WebElement buttonCart = driver.findElement(By.cssSelector("a[id='button_order_cart']"));
         Assertions.assertTrue(buttonCart.isDisplayed());
     }
+
+
+
+
+
 
 }

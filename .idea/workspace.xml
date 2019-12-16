@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bb9bbe6-570d-4ce6-b050-84f778ae6288" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestHelpers/TestStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ScreenshotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebStorageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RepeatWaitsAndAssertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RepeatWaitsAndAssertions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RepeatWaitsAndAssertions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RepeatWaitsAndAssertions.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,19 +24,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/WebStorageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+            <state relative-caret-position="161">
+              <caret line="40" selection-start-line="15" selection-start-column="4" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ScreenshotTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TestHelpers/TestStatus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RepeatWaitsAndAssertions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="159" column="2" lean-forward="true" selection-start-line="159" selection-start-column="2" selection-end-line="159" selection-end-column="2" />
+            <state relative-caret-position="102">
+              <caret line="30" column="76" selection-start-line="28" selection-start-column="4" selection-end-line="30" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -72,6 +103,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/RepeatWaitsAndAssertions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WebStorageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TestHelpers/TestStatus.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ScreenshotTest.java" />
       </list>
     </option>
   </component>
@@ -82,18 +116,16 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-504" />
-    <option name="y" value="122" />
-    <option name="width" value="1942" />
-    <option name="height" value="1052" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-30" />
+    <option name="width" value="1943" />
+    <option name="height" value="1054" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -106,6 +138,12 @@
               <item name="PracticeWaitsAndAssertions" type="b2602c69:ProjectViewProjectNode" />
               <item name="PracticeWaitsAndAssertions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticeWaitsAndAssertions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeWaitsAndAssertions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PracticeWaitsAndAssertions" type="b2602c69:ProjectViewProjectNode" />
@@ -124,10 +162,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576062760115" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576516723385" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -146,52 +185,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RepeatWaitsAndAssertions.checkProductInCart">
-    <configuration name="RepeatWaitsAndAssertions.checkProductInCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ScreenshotTest.makeScreenProduct">
+    <configuration name="ScreenshotTest.makeScreenAddProductInCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticeWaitsAndAssertions" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatWaitsAndAssertions" />
-      <option name="METHOD_NAME" value="checkProductInCart" />
+      <option name="MAIN_CLASS_NAME" value="ScreenshotTest" />
+      <option name="METHOD_NAME" value="makeScreenAddProductInCart" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatWaitsAndAssertions.scrollToSpecials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ScreenshotTest.makeScreenProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticeWaitsAndAssertions" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatWaitsAndAssertions" />
-      <option name="METHOD_NAME" value="scrollToSpecials" />
+      <option name="MAIN_CLASS_NAME" value="ScreenshotTest" />
+      <option name="METHOD_NAME" value="makeScreenProduct" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatWaitsAndAssertions.selectByDropdownList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ScreenshotTest.makeScrenButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticeWaitsAndAssertions" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatWaitsAndAssertions" />
-      <option name="METHOD_NAME" value="selectByDropdownList" />
+      <option name="MAIN_CLASS_NAME" value="ScreenshotTest" />
+      <option name="METHOD_NAME" value="makeScrenButton" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatWaitsAndAssertions.selectByDropdownList2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WebStorageTest.keyRemovedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticeWaitsAndAssertions" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatWaitsAndAssertions" />
-      <option name="METHOD_NAME" value="selectByDropdownList2" />
+      <option name="MAIN_CLASS_NAME" value="WebStorageTest" />
+      <option name="METHOD_NAME" value="keyRemovedTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatWaitsAndAssertions.selectProductusingActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WebStorageTest.takeKeyUsingIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticeWaitsAndAssertions" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatWaitsAndAssertions" />
-      <option name="METHOD_NAME" value="selectProductusingActions" />
+      <option name="MAIN_CLASS_NAME" value="WebStorageTest" />
+      <option name="METHOD_NAME" value="takeKeyUsingIndex" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -199,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RepeatWaitsAndAssertions.checkProductInCart" />
-        <item itemvalue="JUnit.RepeatWaitsAndAssertions.selectProductusingActions" />
-        <item itemvalue="JUnit.RepeatWaitsAndAssertions.selectByDropdownList2" />
-        <item itemvalue="JUnit.RepeatWaitsAndAssertions.selectByDropdownList" />
-        <item itemvalue="JUnit.RepeatWaitsAndAssertions.scrollToSpecials" />
+        <item itemvalue="JUnit.ScreenshotTest.makeScreenProduct" />
+        <item itemvalue="JUnit.ScreenshotTest.makeScrenButton" />
+        <item itemvalue="JUnit.ScreenshotTest.makeScreenAddProductInCart" />
+        <item itemvalue="JUnit.WebStorageTest.takeKeyUsingIndex" />
+        <item itemvalue="JUnit.WebStorageTest.keyRemovedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -221,42 +260,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RepeatWaitsAndAssertions_selectProductusingActions - 2019.12.11 at 11h 44m 52s.xml">
-      <configuration name="RepeatWaitsAndAssertions.selectProductusingActions" configurationId="JUnit" />
+    <history-entry file="WebStorageTest_checkLocalStorageIsEmpty - 2019.12.16 at 13h 47m 59s.xml">
+      <configuration name="WebStorageTest.checkLocalStorageIsEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatWaitsAndAssertions_selectProductusingActions - 2019.12.11 at 11h 45m 29s.xml">
-      <configuration name="RepeatWaitsAndAssertions.selectProductusingActions" configurationId="JUnit" />
+    <history-entry file="WebStorageTest_checkLocalStorageIsEmpty - 2019.12.16 at 13h 53m 57s.xml">
+      <configuration name="WebStorageTest.checkLocalStorageIsEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatWaitsAndAssertions_selectProductusingActions - 2019.12.11 at 11h 46m 21s.xml">
-      <configuration name="RepeatWaitsAndAssertions.selectProductusingActions" configurationId="JUnit" />
+    <history-entry file="WebStorageTest_checkLocalStorageIsEmpty - 2019.12.16 at 13h 54m 30s.xml">
+      <configuration name="WebStorageTest.checkLocalStorageIsEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatWaitsAndAssertions_selectProductusingActions - 2019.12.11 at 11h 48m 46s.xml">
-      <configuration name="RepeatWaitsAndAssertions.selectProductusingActions" configurationId="JUnit" />
+    <history-entry file="WebStorageTest_checkLocalStorageJS - 2019.12.16 at 13h 57m 49s.xml">
+      <configuration name="WebStorageTest.checkLocalStorageJS" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatWaitsAndAssertions_selectProductusingActions - 2019.12.11 at 11h 52m 13s.xml">
-      <configuration name="RepeatWaitsAndAssertions.selectProductusingActions" configurationId="JUnit" />
+    <history-entry file="WebStorageTest_checkLocalStorageJS - 2019.12.16 at 13h 58m 31s.xml">
+      <configuration name="WebStorageTest.checkLocalStorageJS" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatWaitsAndAssertions_selectProductusingActions - 2019.12.11 at 11h 53m 38s.xml">
-      <configuration name="RepeatWaitsAndAssertions.selectProductusingActions" configurationId="JUnit" />
+    <history-entry file="WebStorageTest_keyRemovedTest - 2019.12.16 at 14h 53m 41s.xml">
+      <configuration name="WebStorageTest.keyRemovedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatWaitsAndAssertions_selectProductusingActions - 2019.12.11 at 11h 55m 26s.xml">
-      <configuration name="RepeatWaitsAndAssertions.selectProductusingActions" configurationId="JUnit" />
+    <history-entry file="WebStorageTest_takeKeyUsingIndex - 2019.12.16 at 14h 58m 19s.xml">
+      <configuration name="WebStorageTest.takeKeyUsingIndex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatWaitsAndAssertions_checkProductInCart - 2019.12.11 at 12h 05m 26s.xml">
-      <configuration name="RepeatWaitsAndAssertions.checkProductInCart" configurationId="JUnit" />
+    <history-entry file="ScreenshotTest_makeScreenAddProductInCart - 2019.12.16 at 17h 31m 11s.xml">
+      <configuration name="ScreenshotTest.makeScreenAddProductInCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatWaitsAndAssertions_checkProductInCart - 2019.12.11 at 12h 06m 35s.xml">
-      <configuration name="RepeatWaitsAndAssertions.checkProductInCart" configurationId="JUnit" />
+    <history-entry file="ScreenshotTest_makeScreenAddProductInCart - 2019.12.16 at 17h 35m 08s.xml">
+      <configuration name="ScreenshotTest.makeScreenAddProductInCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatWaitsAndAssertions_checkProductInCart - 2019.12.11 at 12h 07m 55s.xml">
-      <configuration name="RepeatWaitsAndAssertions.checkProductInCart" configurationId="JUnit" />
+    <history-entry file="ScreenshotTest_makeScrenButton - 2019.12.16 at 17h 44m 03s.xml">
+      <configuration name="ScreenshotTest.makeScrenButton" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <frame x="-24" y="0" width="1554" height="843" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26040268" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26372156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -265,8 +304,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39689267" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.395218" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -288,28 +327,16 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/RepeatWaitsAndAssertions.java</url>
-          <line>114</line>
+          <url>file://$PROJECT_DIR$/src/test/java/WebStorageTest.java</url>
+          <line>71</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/RepeatWaitsAndAssertions.java</url>
-          <line>120</line>
+          <url>file://$PROJECT_DIR$/src/test/java/WebStorageTest.java</url>
+          <line>79</line>
           <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/RepeatWaitsAndAssertions.java</url>
-          <line>160</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/RepeatWaitsAndAssertions.java</url>
-          <line>162</line>
-          <properties />
-          <option name="timeStamp" value="15" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -324,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+        <state relative-caret-position="408">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -343,10 +370,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WebStorageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="40" selection-start-line="15" selection-start-column="4" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RepeatWaitsAndAssertions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="159" column="2" lean-forward="true" selection-start-line="159" selection-start-column="2" selection-end-line="159" selection-end-column="2" />
+        <state relative-caret-position="102">
+          <caret line="30" column="76" selection-start-line="28" selection-start-column="4" selection-end-line="30" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestHelpers/TestStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ScreenshotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
         </state>
       </provider>
     </entry>
